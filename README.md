@@ -1,4 +1,4 @@
-###  Oiii eu sou a Ighor Arruda, Programador!
+##  Oiii eu sou a Ighor Arruda, Programador!
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Csharp" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
