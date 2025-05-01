@@ -2,7 +2,7 @@
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Git" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
-  <img align="center" alt="Rafa-GitHub" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
+  <img align="center" alt="Rafa-Github" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
   <img align="center" alt="Rafa-CSS" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Rafa-Python" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Rafa-Js" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
