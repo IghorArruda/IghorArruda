@@ -16,6 +16,13 @@
 ![AI](https://img.shields.io/badge/AI-FF6F00?style=for-the-badge&logo=openai&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-150458?style=for-the-badge&logo=numpy&logoColor=white)
+![Scrum](https://img.shields.io/badge/Scrum-150458?style=for-the-badge&logo=scrumalliance&logoColor=white)
+![Kanban](https://img.shields.io/badge/Kanban-150458?style=for-the-badge&logo=kanban&logoColor=white)
+![AI](https://img.shields.io/badge/AI-150458?style=for-the-badge&logo=openai&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-150458?style=for-the-badge&logo=linux&logoColor=white)
+
 ## 🚀 Projetos Destacados  
 - [Análise de Dados com Python](link_github)  
 - [Dashboard de Vendas no Power BI](link_github)
