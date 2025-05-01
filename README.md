@@ -30,7 +30,6 @@
 
 ## 📊 Stats  
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=IghorArruda&show_icons=true&theme=radical)
-![Snake animation](https://github.com/IghorArruda/IghorArruda/blob/output/github-contribution-grid-snake.svg)
 
 <div>
 <a href="https://github.com/IghorArruda">
