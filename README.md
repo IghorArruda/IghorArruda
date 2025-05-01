@@ -1,5 +1,11 @@
-# 🔍 Sobre Mim  
-Analista de Dados em transição | Python | Power BI | SQL  
+# 👋 Olá, eu sou Ighor Arruda!
+
+## 🛠 Habilidades
+<div style="display: inline_block"><br>
+  <img align="center" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" />
+  <img align="center" height="60" width="80" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+
+
 
 ## 🚀 Projetos Destacados  
 - [Análise de Dados com Python](link_github)  
@@ -11,7 +17,6 @@ Analista de Dados em transição | Python | Power BI | SQL
 # 👋 Olá, eu sou Ighor Arruda!
 
 ## 🛠 Habilidades
-<img align="center" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" />
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![PowerBI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
