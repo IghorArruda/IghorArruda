@@ -3,7 +3,7 @@
 ## 🛠️ Habilidades
 <div style="display: inline_block">
   <img align="center" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" />
-  <img align="center" height="60" width="80" src="https://img.shields.io/badge/PowerBI-010203?style=for-the-badge&logo=powerbi&logoColor=white" />
+  <img align="center" height="60" width="80" src="https://img.shields.io/badge/PowerBI-080808?style=for-the-badge&logo=powerbi&logoColor=white" />
   <img align="center" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
   <img align="center" height="60" width="80" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-plain-wordmark.svg" />
   <img align="center" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" />
