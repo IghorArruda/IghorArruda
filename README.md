@@ -1,3 +1,13 @@
+# 🔍 Sobre Mim  
+Analista de Dados em transição | Python | Power BI | SQL  
+
+## 🚀 Projetos Destacados  
+- [Análise de Dados com Python](link_github)  
+- [Dashboard de Vendas no Power BI](link_github)  
+
+## 📊 Stats  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=IghorArruda&show_icons=true&theme=radical)
+
 # 👋 Olá, eu sou Ighor Arruda!
 
 ## 🛠 Habilidades
