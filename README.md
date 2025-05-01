@@ -1,4 +1,4 @@
-# Olá, eu sou Ighor Arruda! Estudante de Análise e Desenvolvimento de Sistemas | Python | Power BI | SQL" está perfeito para atrair recrutadores de TI.
+# Olá, eu sou Ighor Arruda! Estudante de Análise e Desenvolvimento de Sistemas | Python | Power BI | SQL
 
 ## 🛠️ Habilidades
 <div style="display: inline_block">
