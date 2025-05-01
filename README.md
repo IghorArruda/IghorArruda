@@ -1,14 +1,14 @@
-# Olá, eu sou Ighor Arruda! Estudante de Análise e Desenvolvimento de Sistemas | Python | Power BI | SQL
+# Olá, eu sou Ighor Arruda!  
+*Analista de Dados | Python | Power BI | Em transição para Tecnologia*
 
-## 🛠️ Habilidades
+## 🛠️ Habilidades Técnicas
 <div style="display: inline_block">
   <img align="center" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" />
   <img align="center" height="60" width="80" src="https://img.shields.io/badge/PowerBI-080808?style=for-the-badge&logo=powerbi&logoColor=white" />
   <img align="center" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
   <img align="center" height="60" width="80" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-plain-wordmark.svg" />
   <img align="center" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/githubcodespaces/githubcodespaces-original.svg" />
-          
-## 📚 Tecnologias
+  
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-fe2712?style=for-the-badge&logo=numpy&logoColor=white)
 ![Scrum](https://img.shields.io/badge/Scrum-6DB33F?style=for-the-badge&logo=scrumalliance&logoColor=white)
@@ -19,6 +19,10 @@
 ## 🚀 Projetos Destacados  
 - [Análise de Dados com Python](link_github)  
 - [Dashboard de Vendas no Power BI](link_github)
+- [📊 Análise de Dados com Python](LINK_DO_REPOSITÓRIO)  
+  (Descrição breve: ex: "Análise de dados públicos com Pandas")  
+- [📈 Dashboard de Vendas no Power BI](LINK_DO_REPOSITÓRIO)  
+  (Descrição breve: ex: "ETL + visualização de dados de vendas")  
 
 ## 📫 Contato
   <div> 
@@ -29,4 +33,4 @@
 </div>
 
 ## 📊 Stats  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=IghorArruda&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=IghorArruda&show_icons=true&theme=radical&hide_border=true)
