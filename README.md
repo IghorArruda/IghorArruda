@@ -17,10 +17,8 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ## 🚀 Projetos Destacados  
-- [Análise de Dados com Python](link_github)  
-- [Dashboard de Vendas no Power BI](link_github)
 - [📊 Análise de Dados com Python](LINK_DO_REPOSITÓRIO)  
-  (Análise de dados públicos com Pandas")  
+  ("Análise de dados públicos com Pandas")  
 - [📈 Dashboard de Vendas no Power BI](LINK_DO_REPOSITÓRIO)  
   ("ETL + visualização de dados de vendas")  
 
