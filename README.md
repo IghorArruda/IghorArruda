@@ -20,9 +20,9 @@
 - [Análise de Dados com Python](link_github)  
 - [Dashboard de Vendas no Power BI](link_github)
 - [📊 Análise de Dados com Python](LINK_DO_REPOSITÓRIO)  
-  (Descrição breve: ex: "Análise de dados públicos com Pandas")  
+  (Análise de dados públicos com Pandas")  
 - [📈 Dashboard de Vendas no Power BI](LINK_DO_REPOSITÓRIO)  
-  (Descrição breve: ex: "ETL + visualização de dados de vendas")  
+  ("ETL + visualização de dados de vendas")  
 
 ## 📫 Contato
   <div> 
