@@ -1,7 +1,7 @@
 # 👋 Olá, eu sou Ighor Arruda!
 
 ## 🛠 Habilidades
-<div style="display: inline_block"><br>
+<div style="display: inline_block">
   <img align="center" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" />
   <img align="center" height="60" width="80" src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
   <img align="center" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
