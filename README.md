@@ -32,3 +32,7 @@
 
 ## 📊 Stats  
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=IghorArruda&show_icons=true&theme=radical&hide_border=true)
+
+## 🧩 Snippets Úteis  
+- [Análise de Vendas com Python](https://gist.github.com/IghorArruda/a0922d2de67cec8650e95c0e54f66216)  
+(Script rápido para análise exploratória com Pandas)
