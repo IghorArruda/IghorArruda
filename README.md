@@ -30,5 +30,10 @@
     <a href="https://www.instagram.com/ighorarruda/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-31A8FF?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </div>
 
+## 📫 Contato  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/seuperfil)  
+[![Teams](https://img.shields.io/badge/MS_Teams-Agendar_Reunião-6264A7?style=for-the-badge&logo=microsoft-teams&logoColor=white)](LINK_DA_REUNIAO)  
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seuemail@exemplo.com)
+
 ## 📊 Stats  
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=IghorArruda&show_icons=true&theme=radical&hide_border=true)
