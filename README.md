@@ -1,5 +1,7 @@
-# Olá, eu sou Ighor Arruda!  
-*Analista de Dados | Python | Power BI | Em transição para Tecnologia*
+## Ighor Arruda
+**Analista de Dados & Operações | SQL · Python · Power BI | 8+ anos em ambientes corporativos**
+
+Profissional com formação em Análise e Desenvolvimento de Sistemas e 8+ anos de experiência em operações técnicas de alta complexidade na Nestlé. Desenvolvo soluções próprias de automação, análise de dados e visualização para otimização de processos operacionais.
 
 ## 🛠️ Habilidades Técnicas
 <div style="display: inline_block">
